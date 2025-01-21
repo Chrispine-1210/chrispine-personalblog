@@ -20,7 +20,7 @@
    * COLORS
    */
 
-  /** Background colors 
+  /** Background colors **/
   --bg-wild-blue-yonder: hsla(216, 33%, 68%, 1);
   --bg-carolina-blue: hsla(199, 89%, 49%, 1);
   --bg-prussian-blue: hsla(216, 33%, 20%, 1);
@@ -37,8 +37,8 @@
   --text-slate-gray: hsla(217, 17%, 48%, 1);
 
   /** Gradient colors */
-  --gradient-1: linear-gradient(90deg, #0ea5ea, #0bd1d1 51%);
-  --gradient-2: linear-gradient(90deg, #0ea5ea, #0bd1d1 51%, #0ea5ea);
+  --gradient-1: linear-gradient(90deg, #ffe265, #0bd1d1 51%);
+  --gradient-2: linear-gradient(90deg, #0ea5ea, #4d3035%, #0ea5ea);
   --gradient-3: linear-gradient(0deg, #000d1a, transparent);
 
   /** Border colors */
